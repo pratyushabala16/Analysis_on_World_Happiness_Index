@@ -208,7 +208,7 @@ Some parameters included in the report are very abstract and hard to quantify an
 7) Poverty rate : <https://www.indexmundi.com/g/r.aspx?v=69>
 
 8) World Countries:  <http://tapiquen-sig.jimdo.com.>
-"Shape downloaded from http://www.efrainmaps.es. Carlos Efraín Porto Tapiquén. Geografía, SIG y Cartografía Digital. Valencia, Spain, 2020."
+"Shape downloaded from http://www.efrainmaps.es. Carlos EfraÃ­n Porto TapiquÃ©n. GeografÃ­a, SIG y CartografÃ­a Digital. Valencia, Spain, 2020."
 Based on shapes from Enviromental Systems Research Institute (ESRI). Free Distribuition.
 
 ## Appendix :
